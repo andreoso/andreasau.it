@@ -22,7 +22,7 @@ title: Andrea Sau
 email: andrea@andreasau.it
 description: >- # this means to ignore newlines until "baseurl:"
   Studente di telecomunicazioni. Appassionato di elettronica ed informatica.
-baseurl: "/andreasau.it" # the subpath of your site, e.g. /blog
+baseurl: "https://github.andreoso.io/andreasau.it" # the subpath of your site, e.g. /blog
 url: "https://andreoso.github.io/andreasau.it" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  andreoso
