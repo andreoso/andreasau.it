@@ -4,6 +4,5 @@
 
 layout: home
 ---
-# Il mio covo nella giungla del web
 ### Tana sicura nell'anarchia della rete
 update 08:09
